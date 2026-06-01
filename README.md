@@ -1,3 +1,4 @@
+<img width="303" height="556" alt="Screenshot 2026-06-01 140639" src="https://github.com/user-attachments/assets/87958f68-8feb-4f5d-ad1c-a6590f034a44" />
 🧩 Install the Extension (Unpacked / Developer Mode)
 
 To install this extension manually, download and load it as an unpacked extension.
