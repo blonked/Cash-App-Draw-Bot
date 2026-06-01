@@ -1,4 +1,7 @@
+
 <img width="303" height="556" alt="Screenshot 2026-06-01 140639" src="https://github.com/user-attachments/assets/87958f68-8feb-4f5d-ad1c-a6590f034a44" />
+<img width="1037" height="576" alt="imagme" src="https://github.com/user-attachments/assets/c0766add-ce0d-48df-be62-0b1941879321" />
+
 Example^^
 
 🧩 Install the Extension (Unpacked / Developer Mode)
